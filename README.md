@@ -1,4 +1,4 @@
-# 🎼 NeuroMuse: Unsupervised Multi-Genre Music Generation
+# 🎼 Unsupervised Multi-Genre Music Generation
 
 ## 📌 Course
 CSE425 / EEE474 — Neural Networks
